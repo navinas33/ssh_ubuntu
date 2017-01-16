@@ -1,5 +1,5 @@
 
-FROM       ubuntu:latest
+FROM       ubuntu
 MAINTAINER navin kumar
 
 RUN apt-get update
