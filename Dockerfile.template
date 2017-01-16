@@ -1,5 +1,5 @@
 FROM       ubuntu:%VERSION%
-MAINTAINER Aleksandar Diklic "https://github.com/rastasheep"
+MAINTAINER navin kumar
 
 RUN apt-get update
 
