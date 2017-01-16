@@ -1,5 +1,5 @@
 FROM       ubuntu:16.04
-MAINTAINER Aleksandar Diklic "https://github.com/rastasheep"
+MAINTAINER navin kumar
 
 RUN apt-get update
 
